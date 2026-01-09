@@ -66,7 +66,7 @@ def crear_post_instagram(ruta_catalogo, ruta_encabezado, nombre_archivo, modelo_
 # --- EJEMPLO DE USO ---
 crear_post_instagram(
     "catalogo.png", 
-    "encabezado_expert.png", 
+    "IMG_1676.jpeg", 
     "post_tv_tcl", 
     modelo_pesos="yolov5s"  # Cambia el modelo si tienes uno más específico (por ejemplo, entrenado con datos de catálogos).
 )
